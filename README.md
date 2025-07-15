@@ -1,4 +1,6 @@
-# Step 1: http://localhost:8081/login
+# Step 1: Client App URL
+Hot this in the browser http://localhost:8081/login
+
 <img width="1919" height="624" alt="image" src="https://github.com/user-attachments/assets/d7361c72-7da1-44e8-a0f1-bbb3461cc75b" />
 
 
